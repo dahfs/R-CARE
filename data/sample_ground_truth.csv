@@ -1,0 +1,3 @@
+id,label,explanation,source_dataset,phenomenon
+900003,entailment,The falling rain supports the metaphor that the sky is crying.,synthetic,metaphor
+900004,contradiction,The snowy scene conflicts with a simile describing extreme heat.,synthetic,simile

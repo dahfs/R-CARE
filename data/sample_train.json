@@ -1,0 +1,30 @@
+[
+  {
+    "id": 900001,
+    "image": "image/train/900001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe description and visual analysis of this picture is `The illustration shows cracked brown earth under bright light, with no water or plants visible.`. The claim of this picture is `The ground is as dry as a desert`. You need to predict whether the claim of this picture is 'entailment' or 'contradiction' firstly according to the picture and its description. Then you need to give an explanation for the prediction. The prediction and the explanation are related to the meaning of the figurative language expression. Your response must follow the format shown below: \n`Prediction. Explanation.`\n"
+      },
+      {
+        "from": "gpt",
+        "value": "entailment. The cracked, dry ground supports the simile comparing its dryness with a desert."
+      }
+    ]
+  },
+  {
+    "id": 900002,
+    "image": "image/train/900002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe description and visual analysis of this picture is `The illustration shows a clear blue sky, bright sun, light clouds, and a green field with no rain.`. The claim of this picture is `The sky is crying`. You need to predict whether the claim of this picture is 'entailment' or 'contradiction' firstly according to the picture and its description. Then you need to give an explanation for the prediction. The prediction and the explanation are related to the meaning of the figurative language expression. Your response must follow the format shown below: \n`Prediction. Explanation.`\n"
+      },
+      {
+        "from": "gpt",
+        "value": "contradiction. The image shows sunshine and no rain, so the metaphor of a crying sky is not supported."
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 900003,
+    "image": "image/test/900003.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe description and visual analysis of this picture is `The illustration shows dark clouds, falling rain, a yellow umbrella, and a wet ground.`. The claim of this picture is `The sky is crying`. You need to predict whether the claim of this picture is 'entailment' or 'contradiction' firstly according to the picture and its description. Then you need to give an explanation for the prediction. The prediction and the explanation are related to the meaning of the figurative language expression. Your response must follow the format shown below: \n`Prediction. Explanation.`\n"
+      }
+    ]
+  },
+  {
+    "id": 900004,
+    "image": "image/test/900004.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThe description and visual analysis of this picture is `The illustration shows snowy mountains, snowflakes, and a white snow-covered field.`. The claim of this picture is `The day is as hot as a furnace`. You need to predict whether the claim of this picture is 'entailment' or 'contradiction' firstly according to the picture and its description. Then you need to give an explanation for the prediction. The prediction and the explanation are related to the meaning of the figurative language expression. Your response must follow the format shown below: \n`Prediction. Explanation.`\n"
+      }
+    ]
+  }
+]

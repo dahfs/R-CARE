@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+*.env
+
+# Generated model and evaluation artifacts
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.pkl
+*.pickle
+*.log
+checkpoints_*/
+cache_*/
+result/
+pred/
+preds/
+log/
+
+# Keep only synthetic examples in the tracked data folder
+data/raw/
+data/official/
+data/full/
