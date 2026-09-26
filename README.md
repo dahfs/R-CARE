@@ -1,6 +1,8 @@
 # R-CARE
 
-![R-CARE paper cover](assets/cover.png)
+![R-CARE model architecture](assets/model-architecture.png)
+
+*R-CARE model architecture: concept-graph conditioning, bounded semantic readout, and evidence-based explanation selection.*
 
 **Reliability-Aware Concept-Graph Conditioning and Evidence Verification for Visual Figurative Language Reasoning**
 
@@ -14,7 +16,7 @@ R-CARE combines reliability-aware concept-graph conditioning with evidence-based
 | `infer.py` | Inference with the historical LLaVA loading and generation path. |
 | `evaluate.py` | Calls the original benchmark metric script. |
 | `data/` | Four fully synthetic examples, images, graph records, and CSV examples. |
-| `assets/` | Anonymous paper cover for this repository. |
+| `assets/` | Model architecture diagram. |
 | `docs/` | Reproduction requirements and output layout. |
 
 ## Run the final model
